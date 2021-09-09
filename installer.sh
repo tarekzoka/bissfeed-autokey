@@ -6,7 +6,7 @@
 # Command: wget https://raw.githubusercontent.com/tarekzoka/bissfeed-autokey/main/installer.sh -O - | /bin/sh #
 # 
 # Plugin	... bissfeed-autokey
-PACKAGE_DIR='JediMakerXtream/main'
+PACKAGE_DIR='bissfeed-autokey/main'
 MY_IPK="enigma2-plugin-extensions-bissfeed-autokey-OE2_all"
 MY_DEB="enigma2-plugin-extensions-bissfeed-autokey-OE2_all"
 # Auto ... Do not change
